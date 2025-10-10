@@ -1,0 +1,9 @@
+[garmin]
+user = ""
+password = ""
+
+[data]
+path = ""
+duration =  # Number of months to look back from
+zone_2_low = 
+zone_2_high = 
